@@ -1,0 +1,14 @@
+{
+  "name": "Alchemist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuanhaoyu/Alchemist.git",
+  "author": "yuanhaoyu <yhy929768691@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.8.1"
+  },
+  "scripts": {
+    "dev": "node server/app.js"
+  }
+}
