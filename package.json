@@ -6,7 +6,7 @@
   "author": "yuanhaoyu <yhy929768691@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.8.1"
+    "koa": "^2.15.4"
   },
   "scripts": {
     "dev": "node server/app.js"
